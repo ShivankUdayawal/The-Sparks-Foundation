@@ -25,12 +25,16 @@
 ### ‘Indian Premier League’
     Find out the hot zone of terrorism. 
     
-# task 6
+# Task 6
  ## Prediction using Decision Tree Algorithm
   ### Create the Decision Tree classifier and visualize it graphically. 
      The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly. 
 
-# task 7
+# Task 7
  ## Stock Market Prediction using Numerical and Textual Analysis
  ### Stock to analyze and predict - SENSEX (S&P BSE SENSEX)
      Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines.
+     
+# Task 8    
+  ## Timeline Analysis : Covid-19
+       Create a storyboard showing spread of Covid-19 cases in your country or any region (Asia, Europe, BRICS etc) 
